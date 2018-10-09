@@ -1,2 +1,4 @@
 # JenkinsJob
 JenkinsJob
+
+Poll scm
