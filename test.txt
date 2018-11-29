@@ -1,1 +1,2 @@
 Merge conflicts
+merge with another branch
