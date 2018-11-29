@@ -1,2 +1,3 @@
 Merge conflicts
 merge with another branch
+checking merge conflicts
